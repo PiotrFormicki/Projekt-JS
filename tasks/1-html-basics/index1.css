@@ -1,0 +1,24 @@
+
+
+.square__block { 
+    display: flex;
+    justify-content: row
+    ;
+}
+.square__left { 
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#square__button { 
+    font-weight: bold;
+    color: brown;
+}
+.square__right { 
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
